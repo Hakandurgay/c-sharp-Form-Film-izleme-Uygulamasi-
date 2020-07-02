@@ -1,0 +1,10 @@
+C:\Users\hakan\Desktop\netflixuygulamasi\netflixuygulamasi\netflixuygulamasi\bin\Release\netflixuygulamasi.exe.config
+C:\Users\hakan\Desktop\netflixuygulamasi\netflixuygulamasi\netflixuygulamasi\bin\Release\netflixuygulamasi.exe
+C:\Users\hakan\Desktop\netflixuygulamasi\netflixuygulamasi\netflixuygulamasi\bin\Release\netflixuygulamasi.pdb
+C:\Users\hakan\Desktop\netflixuygulamasi\netflixuygulamasi\netflixuygulamasi\obj\Release\netflixuygulamasi.formGiris.resources
+C:\Users\hakan\Desktop\netflixuygulamasi\netflixuygulamasi\netflixuygulamasi\obj\Release\netflixuygulamasi.KayitSayfasi.resources
+C:\Users\hakan\Desktop\netflixuygulamasi\netflixuygulamasi\netflixuygulamasi\obj\Release\netflixuygulamasi.Properties.Resources.resources
+C:\Users\hakan\Desktop\netflixuygulamasi\netflixuygulamasi\netflixuygulamasi\obj\Release\netflixuygulamasi.csproj.GenerateResource.cache
+C:\Users\hakan\Desktop\netflixuygulamasi\netflixuygulamasi\netflixuygulamasi\obj\Release\netflixuygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\hakan\Desktop\netflixuygulamasi\netflixuygulamasi\netflixuygulamasi\obj\Release\netflixuygulamasi.exe
+C:\Users\hakan\Desktop\netflixuygulamasi\netflixuygulamasi\netflixuygulamasi\obj\Release\netflixuygulamasi.pdb
